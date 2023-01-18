@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Eshoot.ogg-fae3cd68a3866576dc748c7d1f4882fd.oggstr"
+
+[deps]
+
+source_file="res://Audio/Eshoot.ogg"
+dest_files=[ "res://.import/Eshoot.ogg-fae3cd68a3866576dc748c7d1f4882fd.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
