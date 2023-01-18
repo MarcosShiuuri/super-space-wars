@@ -1,7 +1,7 @@
 Super Space Wars
 
 The galaxy is at war! How long can you survive?
-Shot, dodge and collect items to help you.
+Shoot, dodge and collect items to help you.
 
 
 Game made using Godot Engine 3.1 for GBJAM 8
